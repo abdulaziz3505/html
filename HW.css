@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.footer{
+    width: 100%;
+    height: 350px;
+    background-color: #222
+}
+.f_icons{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 140px;
+}
+.f_icons i{
+    color: rgb(45, 90, 45);
+    font-size: 20px;
+    margin-left: 16px;
+}
+.f_btns{
+    text-align: center;
+    margin-top: 20px;
+}
+.btn{
+    padding: 8px;
+    background-color: #222;
+    color: white;
+    border: 1px solid #222;
+    
+}
+.f_but{
+    padding: 8px;
+    text-align: center;
+    background-color: #222;
+    color: white;
+    border: 1px solid #222; 
+}
+.f_io{
+    color: white;
+}
+.booter{
+    width: 100%;
+    height: 35px;
+    background-color: rgb(95, 177, 95);
+}
+.f_pp{
+    text-align: center;
+    color: white;
+    margin: auto;
+}
